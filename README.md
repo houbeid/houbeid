@@ -1,6 +1,6 @@
 [![houbeid's 42 stats](https://badge.mediaplus.ma/darkblue/houbeid)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm hammade</h1>
-<h3 align="center">backend developer from Mauritania</h3>
+<h3 align="center">backend developer and AI Engineer from Mauritania</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
